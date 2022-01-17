@@ -1,7 +1,7 @@
 Config = {}
 
-Config.minEarn = 100
-Config.maxEarn = 450
+Config.minEarn = 250
+Config.maxEarn = 550
 Config.RegisterEarnings = math.random(Config.minEarn, Config.maxEarn)
 Config.MinimumStoreRobberyPolice = 0
 Config.resetTime = (60 * 1000) * 30
